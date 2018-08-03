@@ -7,7 +7,7 @@ Learning note of Python for Data Analysis.
 The author of *Python for Data Analysis*, [Wes McKinney](https://en.wikipedia.org/wiki/Wes_McKinney) is the creator and "Benevolent Dictator for Life" (BDFL) of the open-source Pandas package for data analysis in the Python programming language.
 
 If you want to read more detail about this book, you can refer from [author's GitHub](https://github.com/hengbinxu/pydata-book).
-
+***
 Table Content:
 - CH4 Numpy
 - CH5 Getting Started with Pandas
@@ -16,6 +16,6 @@ Table Content:
 - CH8 Plotting and Visualization
 - CH9 Data Aggregation
 - CH10 Time Series
-
+***
 Reference:
 - [Python for Data Analysis](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
